@@ -1,0 +1,21 @@
+body {
+	background-color: blueviolet;
+}
+
+#cabecalho {
+	background-color: white;
+}
+
+#imagem-superior {
+	background-color: antiquewhite;
+}
+
+#titulo {
+	background-color: orange;
+}
+
+#cursos {
+	background-color: aqua;
+	width: 100%;
+	height: 200px;
+}
