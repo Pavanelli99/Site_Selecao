@@ -2304,7 +2304,7 @@ input, select, textarea {
 		}
 
 			#sidebar section:before, #sidebar nav:before {
-				content: "Teste";
+				content: "";
 				border-top: solid 1px;
 				border-bottom: solid 1px;
 				border-color: rgba(0, 0, 0, 0.25);
